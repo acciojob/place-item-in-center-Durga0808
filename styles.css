@@ -12,6 +12,5 @@
     height: 100px;            /* Set height to 100px */
     background-color: red;    /* Set the background color to red */
 				           /* Use flexbox layout within item-1 */
-    justify-content: center;  /* Center horizontally within item-1 */
-    align-items: center;      /* Center vertically within item-1 */
+			      /* Center vertically within item-1 */
 }
